@@ -1,5 +1,5 @@
 # GITAM_MERCH
-official merch for gitam!!!
 
+official merch for gitam!!!
 
 ## Requirements
