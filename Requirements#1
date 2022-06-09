@@ -1,0 +1,51 @@
+GITAM MERCH:
+
+An online platform for students/teachers/staff to shop for merch.
+
+REQUIREMENTS:
+- Student/Staff login credentials 
+- Catalog with different categories also a selection menu to select the users size, color, and type of merch he/she wants.
+- Cart -add/remove/delete items
+- Transaction page
+- Suggestion page where users/customers can give out ideas for new merch 
+- Return/Complaint page
+-Drop down menu to navigate between each page as required
+
+
+WEB PAGE DESIGN IDEA:
+
+Home/MAIN Page:
+ -GITAM MERCH (title)
+ -COMPONENTS:
+   a)CATALOG
+   b)ADD IDEAS/SUGGESTIONS
+   c)CART/ITEM TRACKER
+   d)HISTORY of bought items
+   e)Returns/Complaints
+
+UI/UX Design Ideas:
+ -Idea-1: GITAM MERCH in the center and the components/links to the other pages in a circle around it
+
+CATALOG PAGE:
+ - Types of merch(sweatshirts/shirts/bottles/hats/etc) and once clicked on redirected to that category and on the top they can have the option to select which color they want and their size
+ 
+ CART PAGE:
+ - Product info with product img
+ - Price and discount info(if any)
+ - Number of merchandise they want to purchase
+ - Quantity and size selected
+ - Edit option
+ - Delivery info
+ - Help
+ - Mode of payment/payment methods
+ - Link to continue shopping
+ - Promo code box
+ - Link to checkout
+ - highlight offers
+ - Reviews
+ - Email sign up/newsletter
+ - Save for later option
+ - Wishlist option/add to favorites
+ - Return option
+
+
